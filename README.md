@@ -17,4 +17,4 @@ You may also see any lint errors in the console.
 
 ## CodePad 
 
-CodePad is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It is an online code editor, where developers can create code snippets, and test them.
+CodePad is an online community for testing and analysing HTML, CSS and JavaScript code snippets. It is an online code editor, where developers can write code, test the code and analyse the result then and there itself.
